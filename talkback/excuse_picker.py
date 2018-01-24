@@ -13,4 +13,4 @@ class ExcusePicker(object):
         """
         Pick a excuse
         """
-        return choice(self.excuses).strip()
+        return "Yeah I'm just doin some iOS sorry"
